@@ -4,8 +4,7 @@
 * Available at: https://github.com/jammorales/data-science-knowledge-repo
 
 ## Introduction
-__How to share__
-Feel free to share but please link to this repo and cite the author. 
+__How to share.__ Feel free to share but please link to this repo and cite the author. 
 
 ## Contents
 __Practical big data analysis__

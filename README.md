@@ -3,6 +3,11 @@
 * Author: Morales, J.A.
 * Available at: https://github.com/jammorales/data-science-knowledge-repo
 
-## Practical big data analysis
+## Introduction
+__How to share__
+Feel free to share but please link to this repo and cite the author. 
+
+## Contents
+__Practical big data analysis__
 * About: Curated practical advice for analysis of large, complex, chaotic datasets
 * Available at: https://github.com/jammorales/data-science-knowledge-repo/practica-big-data-analysis

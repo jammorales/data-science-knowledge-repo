@@ -8,7 +8,8 @@ Curated data science best practices, guides, and practical advice.
 ## Contents
 
 __Practical big data analysis.__ Curated practical advice for analysis of large, complex, chaotic datasets.  
-
+__Practical machine learning engineering.__ Curated practical advice for building solid end-to-end machine learning pipelines.  
+  
 ...more coming soon.
 
 ---

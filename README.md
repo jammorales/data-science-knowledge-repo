@@ -1,12 +1,21 @@
-# Data science knowledge repo
-* About: Curated data science best practices, guides, and practical advice 
-* Author: Morales, J.A.
-* Available at: https://github.com/jammorales/data-science-knowledge-repo
+# Data Science Knowledge Repo 
+[data-science-knowledge-repo](https://github.com/jammorales/data-science-knowledge-repo)  
+  
+Curated data science best practices, guides, and practical advice.
 
-## Introduction
-__How to share.__ Feel free to share but please link to this repo and cite the author. 
+---
 
 ## Contents
-__Practical big data analysis__
-* About: Curated practical advice for analysis of large, complex, chaotic datasets
-* Available at: https://github.com/jammorales/data-science-knowledge-repo/practica-big-data-analysis
+
+__Practical big data analysis.__ Curated practical advice for analysis of large, complex, chaotic datasets.  
+
+...more coming soon.
+
+---
+## Share this work
+Feel free to share but please link to this repo and cite author. If using for commercial purposes, please reach out to author.
+
+---
+Author: Morales, J.A.  
+Last update: January 9, 2023  
+URL: https://github.com/jammorales/data-science-knowledge-repo
